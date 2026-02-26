@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CadeZZa</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="select_time">Выберите время</string>
+    <string name="select_date">Выберите дату</string>
+    <string name="create_cadenzza">Создать каденцию</string>
+    <string name="close_cadenzza">Закрыть каденцию</string>
+    <string name="add_period">Добавить период</string>
+    <string name="add_route">Добавить маршрут</string>
+    <string name="routes">Маршруты</string>
+    <string name="refuelings">Заправки</string>
+    <string name="expenses">Расходы</string>
+    <string name="couplings">Перецепы</string>
+    <string name="title_activity_cadenzza_list_screen.kt">CadenzzaListScreen.kt</string>
+</resources>
